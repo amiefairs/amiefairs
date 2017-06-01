@@ -1,0 +1,3 @@
+# All about me
+
+This is my new personal page! I'll work out how to make this a blog as well as a general info page...
